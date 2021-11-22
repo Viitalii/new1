@@ -1,0 +1,15 @@
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\bin\Debug\net6.0\new6.exe
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\bin\Debug\net6.0\new6.deps.json
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\bin\Debug\net6.0\new6.runtimeconfig.json
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\bin\Debug\net6.0\new6.dll
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\bin\Debug\net6.0\ref\new6.dll
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\bin\Debug\net6.0\new6.pdb
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\new6.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\new6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\new6.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\new6.AssemblyInfo.cs
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\new6.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\new6.dll
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\ref\new6.dll
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\new6.pdb
+C:\Users\hp\Desktop\nnn\new\new2\new3\new4\new6\obj\Debug\net6.0\new6.genruntimeconfig.cache

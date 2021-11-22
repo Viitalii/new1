@@ -1,6 +1,6 @@
-﻿string[] array = { "пн", "вт", "ср", "чт", "пт", "сб", "вск"};
+﻿String[] array = {"пн", "вт", "ср", "чт", "пт", "сб", "вск"};
 
-Console.Write("Введите номер дня недели:");
+Console.Write("Введите номер дня недели ");
 
 int Dayofweek = int.Parse(Console.ReadLine());
 
